@@ -113,9 +113,21 @@
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
+        <SettingNameInfo>Override DLSS-SR performance mode</SettingNameInfo>
+        <SettingID>279951208</SettingID>
+        <SettingValue>6</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
         <SettingNameInfo>Override DLSS-SR presets</SettingNameInfo>
         <SettingID>283385331</SettingID>
         <SettingValue>16777215</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Override scaling ratio for DLSS-SR</SettingNameInfo>
+        <SettingID>283385333</SettingID>
+        <SettingValue>44</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
