@@ -85,7 +85,7 @@
       <ProfileSetting>
         <SettingNameInfo>Frame Rate Limiter</SettingNameInfo>
         <SettingID>277041154</SettingID>
-        <SettingValue>117</SettingValue>
+        <SettingValue>118</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
@@ -119,6 +119,18 @@
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
+        <SettingNameInfo>Override DLSS-RR performance mode</SettingNameInfo>
+        <SettingID>280859683</SettingID>
+        <SettingValue>6</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
+        <SettingNameInfo>Override scaling ratio for DLSS-RR</SettingNameInfo>
+        <SettingID>281531554</SettingID>
+        <SettingValue>42</SettingValue>
+        <ValueType>Dword</ValueType>
+      </ProfileSetting>
+      <ProfileSetting>
         <SettingNameInfo>Override DLSS-SR presets</SettingNameInfo>
         <SettingID>283385331</SettingID>
         <SettingValue>16777215</SettingValue>
@@ -127,7 +139,7 @@
       <ProfileSetting>
         <SettingNameInfo>Override scaling ratio for DLSS-SR</SettingNameInfo>
         <SettingID>283385333</SettingID>
-        <SettingValue>44</SettingValue>
+        <SettingValue>42</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
