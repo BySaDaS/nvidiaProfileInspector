@@ -127,7 +127,7 @@
       <ProfileSetting>
         <SettingNameInfo>Override scaling ratio for DLSS-RR</SettingNameInfo>
         <SettingID>281531554</SettingID>
-        <SettingValue>54</SettingValue>
+        <SettingValue>42</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
@@ -139,7 +139,7 @@
       <ProfileSetting>
         <SettingNameInfo>Override scaling ratio for DLSS-SR</SettingNameInfo>
         <SettingID>283385333</SettingID>
-        <SettingValue>54</SettingValue>
+        <SettingValue>42</SettingValue>
         <ValueType>Dword</ValueType>
       </ProfileSetting>
       <ProfileSetting>
